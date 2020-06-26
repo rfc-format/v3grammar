@@ -1,11 +1,19 @@
 # v3grammar
 Versions of the post-V3 grammar used by xml2rfc
 
-These are snapshots of the grammar used to render published RFCs.  The versions of xml2rfc used so far are:
+These are snapshots of the grammar used to render published RFCs.  
+
+Each is named after the first version of xml2rfc that used it.
+In many cases several version of xml2rfc used the same grammar.
+
+The verions with the same grammar are grouped together below.
 
 2.32.0
+
 2.34.0
+
 2.35.0
+
 2.37.0
 2.37.1
 2.37.2
@@ -13,6 +21,7 @@ These are snapshots of the grammar used to render published RFCs.  The versions 
 2.38.0
 2.38.1
 2.39.0
+
 2.40.0
 2.40.1
 2.41.0
@@ -21,3 +30,5 @@ These are snapshots of the grammar used to render published RFCs.  The versions 
 2.44.0
 2.45.1
 2.45.3
+
+2.46.0
