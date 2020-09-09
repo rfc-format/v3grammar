@@ -21,3 +21,5 @@ The versions with the same grammar are grouped together below.
 2.46.0
 
 2.47.0
+
+3.0.0
