@@ -1,9 +1,9 @@
 # v3grammar
 This repository is used to archive versions of the v3 [RFCXML grammar](https://authors.ietf.org/en/rfcxml-vocabulary) used by [xml2rfc](https://github.com/ietf-tools/xml2rfc/) to render published RFCs.
 
-The grammar is distributed in xml2rfc in two files for the two different forms of RelaxNG, v3.rnc and v3.rng though only the .rnc file is used. The snapshots here have been renamed by appending the version number of the xml2rfc release that first introduced the change.
+The grammar is distributed in xml2rfc in two files for the two different forms of RelaxNG, v3.rnc and v3.rng, though only the .rnc file is used. The snapshots here have been renamed by appending the version number of the xml2rfc release that first introduced the change.
 
-Changes to the grammar are infrequent and so there are normally versions of xml2rfc that use the same grammar.  The table below lists the versions of the grammar and the versions of xml2rfc that used each version.
+Changes to the grammar are infrequent and so there are normally multiple versions of xml2rfc that use the same grammar.  The table below lists the versions of the grammar and the versions of xml2rfc that used each version.
 
 | .rnc file | xml2rfc versions that use this file |
 | --------- | ----------------------------------- |
